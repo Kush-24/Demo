@@ -1,4 +1,4 @@
-package com.wipro.hashtable;
+package com.kush.hashtable;
 
 public class Hashtable {
 	private StudList[] arr;
