@@ -1,4 +1,4 @@
-package com.wipro.emailproj;
+package com.kush.emailproj;
 
 import java.util.Scanner;
 
