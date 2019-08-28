@@ -1,4 +1,4 @@
-package com.wipro.emailproj;
+package com.kush.emailproj;
 
 public class EmailApp {
 
