@@ -105,6 +105,10 @@ public class TicOpti extends JFrame implements ActionListener {
 	reset.setBounds(120, 280, 100, 30);
 	reset.addActionListener(new ActionListener() {		
 		public void actionPerformed(ActionEvent e) {
+			 fillNumber=0;
+		        x=true;
+		    for(int i=0;i<10;i++)
+		     ch[i]='1';
 			dispose();
 			new TicOpti();
 		}
